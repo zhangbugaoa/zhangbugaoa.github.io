@@ -1,0 +1,537 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	width:1200px;
+	height:210px;
+	border: 1px solid white;
+	margin:0 auto;
+}
+.header .AA{
+	width:108px;
+	height:40px;
+	float:left;
+}
+.header .AA ul li{
+	list-style: none;
+	font-size: 12px;
+	color:#acacac;
+	float:left;
+	margin-top: 12px;
+}
+.header .BB{
+	width:167px;
+	height:40px;
+	float: left;
+}
+.header .BB ul li{
+	list-style: none;
+    font-size: 12px;
+    color:#333333;
+    float:left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 12px;
+}
+.header .CC{
+	width:611px;
+	height:40px;
+	float:left;
+	margin-left: 306px
+}
+.header .CC ul li{
+	list-style: none;
+	float:left;
+	font-size: 12px;
+	margin-top: 12px;
+	margin-left: 30px;
+}
+.header .DD{
+	width:1200px;
+	height:78px;
+	margin-top:58px;
+}
+.header .DD .EE{
+	width:349px;
+	height:78px;
+	float:left;
+	margin-right: 20px;
+}
+.header .DD .FF{
+	width:500px;
+	height:18px;
+	float:left;
+	margin-left:200px;
+}
+.header .DD .GG{
+	width:400px;
+	height:28px;
+	float:left;
+	margin-top:20px;
+}
+.header .DD .HH{
+	margin-top:20px;
+	float: left;
+	height: 30px;
+	width:30px;
+}
+.header .DD .II{
+	height: 23px;
+	width: 380px;
+}
+.header .DD ul li{
+	list-style: none;
+	float: left;
+	font-size: 12px;
+	margin-top: 4px;
+	margin-right: 10px;
+	color: #999999;
+}
+.header .DD .aa{
+	color:#000000;
+}
+.header .DD .JJ{
+	width:120px;
+	height:35px;
+	float: left;
+	margin-left: 702px;
+}
+.header .KK{
+	height:43px;
+	width:1200px;
+	margin-top: 27px;
+	border-bottom: 2px solid #000000;
+}
+.header .KK ul li{
+	list-style: none;
+	font-size: 14px;
+	color:#7a7a7a;
+	float: left;
+	line-height: 43px;
+	text-align: center;
+	width:107px;
+	height:43px;
+}
+.header .KK .bb{
+	color:white;
+	background-color: #e19e12;
+	font-size: 18px;
+	line-height: 43px;
+	text-align: center;
+	width:215px;
+	height:43px;
+	border-bottom: 2px solid #000000;
+}
+.center{
+	width:1200px;
+	height: 1845px;
+    margin: 0 auto;
+}
+.center p{
+	font-size: 13px;
+	color:#7a7a7a;
+	margin-top: 10px;
+	margin-right: 20px;
+}
+.center .LL{
+	width:1200px;
+	height: 180px;
+	margin-top: 12px;
+	border: 1px solid #dddddd;
+}
+.center .LL .MM{
+	width:1200px;
+	height: 60px;
+	text-align: center;
+}
+.center .LL .MM ul li{
+	list-style: none;
+	float: left;
+	font-size: 13px;
+    line-height: 60px;
+	text-align: center;
+	width:80px;
+	height:60px;
+} 
+.center .LL .MM .cc{
+	line-height: 60px;
+	text-align: center;
+	width:125px;
+	height:60px;
+}
+.center .LL .MM .dd{
+	line-height: 60px;
+	text-align: center;
+	width:95px;
+	height:60px;
+}
+.center .LL .MM .ee{
+	line-height: 60px;
+	text-align: center;
+	width:105px;
+	height:60px;
+}
+.center .LL .MM .ff{
+	line-height: 60px;
+	text-align: center;
+	width:125px;
+	height:60px;
+}
+.center .LL .MM .gg{
+	background-color: #f5f5f5;
+	font-size: 14px;
+}
+.center .LL .NN{
+ 	width:1200px;
+	height: 60px;
+}
+.center .LL .NN ul li{
+	list-style: none;
+	float: left;
+    line-height: 60px;
+	text-align: center;
+	width:80px;
+	height:60px;
+}
+.center .LL .NN .hh{
+	background-color: #f5f5f5;
+	font-size: 14px;
+}
+.center .LL .OO{
+	width:1200px;
+	height: 60px;
+}
+.center .LL .OO ul li{
+	list-style: none;
+	float: left;
+	line-height: 60px;
+	text-align: center;
+	width:100px;
+	height: 60px;
+	font-size: 13px;
+}
+.center .LL .OO .ii{
+	background-color: #f5f5f5;
+	line-height: 60px;
+	text-align: center;
+	width:80px;
+	height:60px;
+	font-size:14px; 
+}
+.center .LL .PP{
+	width: 69px;
+	height: 34px;
+	border: 1px solid #eeeeee;
+	margin: 0 auto;
+	background-color: #eeeeee;
+}
+.center .LL .PP p{
+	color:#bbbbbb;
+	text-align: center;
+	font-size: 15px;
+	margin-left: 13px;
+}
+.center .QQ{
+	width:1200px;
+	height: 43px;
+	margin-top:55px;
+}
+.center .QQ ul li{
+	list-style: none;
+	float:left;
+    text-align: center;
+    line-height: 43px;
+    width:88px;
+    height: 43px;
+    border: 1px solid #dddddd;
+    color:#cdcdcd;
+    font-size: 14px;
+}
+.center .QQ .jj{
+	width:104px;
+	height: 43px;
+	color:#7d7d7d;
+}
+.center .QQ .kk{
+	float:right;
+	font-size: 15px;
+	color:#cdcdcd;
+	margin-left: 30px;
+	border: 1px solid white;
+}
+.center .QQ .ll{
+	float:right;
+	font-size: 15px;
+	color:#cdcdcd;
+	border: 1px solid white;
+}
+.center .QQ .mm{
+	float:right;
+	font-size: 15px;
+	color:#cdcdcd;
+	width: 44px;
+	height: 30px;
+	border: 1px solid:#7d7d7d;
+	text-align: center;
+	line-height: 30px;
+	margin-top:5px;
+}
+.center .QQ .nn{
+	float:right;
+	font-size: 15px;
+	color:#cdcdcd;
+	width: 44px;
+	height: 30px;
+	border: 1px solid:#7d7d7d;
+	text-align: center;
+	line-height: 30px;
+	margin-top:5px;
+}
+.center .RR{
+	width:1200px;
+	height: 1430px;
+	margin-top: 30px;
+}
+.center .RR .SS{
+    width:1200px;
+    height: 225px;
+    float: left;
+}
+.center .RR .SS ul li{
+	list-style: none;
+	float: left;
+	width:295px;
+    height: 225px;
+    margin-left: 5px;
+}
+.center .RR .TT{
+	width:1200px;
+	height:42px;
+	float: left;
+}
+.center .RR .TT ul li{
+	list-style: none;
+	float: left;
+	width:295px;
+    height: 42px;
+    margin-left: 2px;
+    text-align: left;
+    line-height: 42px;
+    font-size: 20px;
+    color: red;
+}
+.center .RR .UU{
+	width:1200px;
+	height:50px;
+	float: left;
+}
+.center .RR .UU ul li{
+	list-style: none;
+	float: left;
+	width:295px;
+    height: 50px;
+    margin-left: 5px;
+    font-size: 13px;
+}
+.center .RR .UU p{
+	float: right;
+	text-align: center;
+	line-height: 1px;
+	color:#e19e12;
+	margin-left: 6px;
+}
+.center .RR .VV{
+    width:1200px;
+    height: 225px;
+    float: left;
+    margin-top: 20px;
+}
+.center .RR .VV ul li{
+	list-style: none;
+	float: left;
+	width:295px;
+    height: 225px;
+    margin-left: 5px;
+}
+.center .WW{
+	width: 680px;
+	height: 44px;
+	float:left;
+	margin-left: 280px;
+}
+.center .WW ul li{
+	list-style: none;
+	float: left;
+	text-align: center;
+	line-height: 44px;
+	width:85px;
+	height: 44px;
+	border: 1px solid #cecece;
+	font-size: 13px;
+}
+.center .WW .pp{
+	text-align: center;
+	line-height: 44px;
+	width:55px;
+	height: 44px;
+	color:#e19e12;
+}
+.center .WW .rr{
+	text-align: center;
+	line-height: 44px;
+	width:55px;
+	height: 44px;
+	border: 1px solid white;
+}
+.center .WW .qq{
+	text-align: center;
+	line-height: 44px;
+	width:100px;
+	height: 44px;
+	border: 1px solid white;
+	margin-left: 20px;
+}
+.center .WW .ss{
+	text-align: center;
+	line-height: 26px;
+	width: 59px;
+	border:1px solid #cecece;
+	height: 26px;
+	margin-top:10px;
+}
+.center .WW .tt{
+	color:#e19e12;
+}
+.center .WW .uu{
+	text-align: center;
+	line-height: 44px;
+	width:55px;
+	height: 44px;
+	background-color: #ebebeb;
+}
+.center .WW .vv{
+    float:left;
+    margin-top: 9px;
+}
+.center .WW .xx{
+	border:1px solid white;
+}
+.footer{
+	width:1200px;
+	height: 610px;
+	margin:0 auto;
+}
+.footer .XX{
+	width:1200px;
+	height: 170px;
+	background-color: #f6f6f6;
+}
+.footer .XX .ab{
+	width:223px;
+	height: 126px;
+	border:1px solid #f6f6f6;
+	float:left;
+	margin-top: 25px;
+}
+.footer .XX .ab ul li{
+	list-style: none;
+	font-size: 12px;
+	color:#666666;
+}
+.footer .XX .ac{
+	width:223px;
+	height: 126px;
+	border:1px solid #f6f6f6;
+	float:left;
+	margin-top: 25px;
+}
+.footer .XX .ac ul li{
+	list-style: none;
+	font-size: 12px;
+	color:#666666;
+}
+.footer .XX .ad{
+	width:223px;
+	height: 126px;
+	border:1px solid #f6f6f6;
+	float:left;
+	margin-top: 25px;
+}
+.footer .XX .ad ul li{
+	list-style: none;
+	font-size: 12px;
+	color:#666666;
+}
+.footer .XX .ae{
+	width:223px;
+	height: 126px;
+	border:1px solid #f6f6f6;
+	float:left;
+	margin-top: 25px;
+}
+.footer .XX .ae ul li{
+	list-style: none;
+	font-size: 12px;
+	color:#666666;
+}
+.footer .XX .af{
+	width:210px;
+	height: 126px;
+	border:1px solid #f6f6f6;
+	float:left;
+	margin-top: 25px;
+}
+.footer .XX .af ul li{
+	list-style: none;
+	font-size: 12px;
+	color:#666666;
+}
+.footer .XX .ah{
+	width:80px;
+	height: 126px;
+	border:1px solid #f6f6f6;
+	float:left;
+	margin-top: 25px;
+	float: left;
+}
+.footer .XX .ai{
+	float:left;
+}
+.footer .XX h4{
+	font-size: 14px;
+}
+.footer .YY{
+	width:1200px;
+	height:142px;
+}
+.footer .ZZ{
+	width:590px;
+	height:54px;
+	margin-left: 320px;
+}
+.footer .YY .ZZ ul li{
+	list-style: none;
+	float: left;
+	line-height: 54px;
+	text-align: center;
+	height: 54px;
+	width:61px;
+	margin-left: 10px;
+    font-size: 12px;
+}
+.footer .YY .aj{
+	width:331px;
+	height: 18px;
+	margin-left: 480px;
+	margin-top: 8px;
+}
+.footer .YY .ak{
+	width:331px;
+	height: 18px;
+	margin-left: 585px;
+	margin-top: 6px;
+}
+.footer .YY p{
+	font-size: 12px;
+}
